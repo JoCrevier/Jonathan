@@ -2,10 +2,11 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Je pense que les images ont été un point fort car cela amenait beaucoup de visuel
+la description de certains sujet comme la compagnie que j'aime beaucoup / m'identifie. En effet, je trouvais que j'avais beaucoup détaillé par rapport à cetrains. 
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+Parler moins vite et un peu plus expliquer mes propos
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+Celle de Samuel car je trouvais que c'était dynamique et attrayant. 
