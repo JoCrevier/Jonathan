@@ -3,10 +3,10 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Nouveau tissu meilleur que celui déja présent sur le marché  
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Un tissu qui est plus léger, écologique et qui ne se salient pas
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
@@ -15,7 +15,7 @@ Expliquer le déroulement de votre expérience grâce à un schéma narratif ou 
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+La nanotechnologie sera la principale technologie utilisée
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Technologue en textile, designer en textile, modéliste en textile, couturier etc. 
